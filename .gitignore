@@ -2,6 +2,10 @@
 
 # dependencies
 node_modules/
+android/
+ios/
+*.apk
+*.so
 
 # Expo
 .expo/
